@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <item
+        android:id="@+id/btn_navbar_home"
+        android:title="@string/navbar_home_string"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_24"
+        />
+    <item
+        android:id="@+id/btn_navbar_orders"
+        android:title="@string/navbar_orders_string"
+        android:enabled="true"
+        android:icon="@drawable/ic_orders_24"
+        />
+    <item
+        android:id="@+id/btn_navbar_catalog"
+        android:title="@string/navbar_catalog_string"
+        android:enabled="true"
+        android:icon="@drawable/ic_catalog_24"
+        />
+    <item
+        android:id="@+id/btn_navbar_clients"
+        android:title="@string/navbar_clients_string"
+        android:enabled="true"
+        android:icon="@drawable/ic_clients_24"
+        />
+    <item
+        android:id="@+id/btn_navbar_other"
+        android:title="@string/navbar_other_string"
+        android:enabled="true"
+        android:icon="@drawable/ic_other_24"
+        />
+</menu>

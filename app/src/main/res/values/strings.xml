@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="navbar_home_string">Главная</string>
+    <string name="navbar_orders_string">Заказы</string>
+    <string name="navbar_catalog_string">Каталог</string>
+    <string name="navbar_clients_string">Клиенты</string>
+    <string name="navbar_other_string">Ещё</string>
+</resources>
